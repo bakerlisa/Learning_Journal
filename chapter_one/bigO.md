@@ -10,8 +10,8 @@ Right now I understand it as "How time scales with respect to some input". So in
 I found this video very interesting. Because I thought the computer would win over the pidgeon! Haaa, I still learn so much in this industry! 
 1. Different Steps get added
 2. Drops Constants
-3. 
-4.
+3. Different inputs => different varibales
+4. Drop non dominate terms
 
 Dropping Constants:
 Now I'm not 100% on this concept. But there's this idea that you drop constants in BigO. If the term is non dominatnt you can drop it. I guess becauseit has little to no affect on the outcome
