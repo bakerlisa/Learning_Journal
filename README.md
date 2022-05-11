@@ -1,4 +1,4 @@
-# My learning journal
+# My Learning Journal
 
 ...hmmm not set on that name, but that'll have to do for now!
 
