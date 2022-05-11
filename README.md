@@ -2,7 +2,7 @@
 
 ![](https://github.com/lisabroadhead/Learning_Journal/blob/main/ezgif.com-gif-maker.jpg)
 
-...hmmm not set on that name, but that'll have to do for now!
+The goal is to not do this :) but I am human!!
 
 People always say if you teach it it helps to understand it better...somthing along those lines. So I'm going to try and make a teaching resource for the things I'm learning
 
