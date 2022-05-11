@@ -1,0 +1,11 @@
+# BigO
+
+So this is a harder concept to me. I get the basics, but then things get fuzzy.
+
+Right now I understand it as "How time scales with respect to some input". So in other words how much time and scale your code takes up and uses when it runs a program. The bigger the numbers the longer it takes to trnasfer the information.
+
+I found this video very interesting. Because I thought the computer would win over the pidgeon! Haaa, I still learn so much in this industry! 
+https://www.youtube.com/watch?v=v4cd1O4zkGw
+
+I also find it interesting that nested loops can take longer then 2 unested loops. I never thought that adding would be eaiser for a computer than multipling. I guess it goes to show that things don't need to be complex.
+
