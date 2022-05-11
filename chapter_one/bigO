@@ -2,10 +2,25 @@
 
 So this is a harder concept to me. I get the basics, but then things get fuzzy.
 
+My Defintion and Understanding:
 Right now I understand it as "How time scales with respect to some input". So in other words how much time and scale your code takes up and uses when it runs a program. The bigger the numbers the longer it takes to trnasfer the information.
 
 I found this video very interesting. Because I thought the computer would win over the pidgeon! Haaa, I still learn so much in this industry! 
-https://www.youtube.com/watch?v=v4cd1O4zkGw
+1. 
+2.
+3.
+4.
 
-I also find it interesting that nested loops can take longer then 2 unested loops. I never thought that adding would be eaiser for a computer than multipling. I guess it goes to show that things don't need to be complex.
+Dropping Constants:
+Now I'm not 100% on this concept. But there's this idea that you drop constants in BigO. If the term is non dominatnt you can drop it. I guess becauseit has little to no affect on the outcome
 
+I also find it interesting that nested loops can take longer then 2 unested loops. I never thought that adding would be eaiser for a computer than multipling. I guess it goes to show that things don't need to be complex. 
+
+2 Arrays:
+When yu have 2 arrays, nesting the arrays makes it slower than doing one loop followed by the second loop.
+
+
+
+Resources:
+1. Cracking the Coding Interview
+2. https://www.youtube.com/watch?v=v4cd1O4zkGw
