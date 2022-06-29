@@ -9,3 +9,6 @@ I knoooooooow😂 some of them are embarssing, and they all have a story tha tI 
 2. Protoypes, Filters, Maps
 3. Slicing in React
 4. 
+
+
+https://docs.google.com/document/d/1zSVjj0o8RzBGWwKFaVMCKnh_YtldjpXktqbPOmy6ENg/edit
