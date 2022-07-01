@@ -10,4 +10,4 @@ I knoooooooow😂 some of them are embarssing, and they all have a story that I 
 3. Slicing in React
 4. References Vs. Values
   - https://www.youtube.com/watch?v=-hBJz2PPIVE
-
+5. JS: var scooping
