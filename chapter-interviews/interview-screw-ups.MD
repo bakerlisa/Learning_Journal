@@ -11,3 +11,4 @@ I knoooooooow😂 some of them are embarssing, and they all have a story that I 
 4. References Vs. Values
   - https://www.youtube.com/watch?v=-hBJz2PPIVE
 5. JS: var scooping
+6. Why do we need to import / export (React)
