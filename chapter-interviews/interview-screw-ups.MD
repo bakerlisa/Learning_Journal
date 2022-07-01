@@ -11,5 +11,3 @@ I knoooooooow😂 some of them are embarssing, and they all have a story that I 
 4. References Vs. Values
   - https://www.youtube.com/watch?v=-hBJz2PPIVE
 
-
-https://docs.google.com/document/d/1zSVjj0o8RzBGWwKFaVMCKnh_YtldjpXktqbPOmy6ENg/edit
